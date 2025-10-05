@@ -1,28 +1,22 @@
-# 🍳 RecipeMind — Tu asistente de recetas con IA
+# 🍳 RecipeMind — Your AI-Powered Recipe Assistant
 
-**RecipeMind** es una aplicación móvil desarrollada con **React Native (Expo)** que genera recetas de cocina a partir de los ingredientes que tengas en casa.  
-La app está pensada para ayudarte a cocinar sin complicaciones y aprovechar al máximo lo que ya tienes.
-
----
-
-## 🚀 Características
-
-- 🥕 **Búsqueda por ingredientes:** escribe lo que tienes en casa y recibe recetas personalizadas.  
-- 💬 **Interfaz moderna e intuitiva:** colores suaves, diseño limpio y centrado en la experiencia del usuario.  
-- 🤖 **Integración con IA:** preparada para conectarse con modelos de lenguaje (**Hugging Face**, **OpenAI**, o **Ollama**) para generar recetas de forma inteligente.  
-- ⚡ **Arquitectura modular:** fácilmente ampliable con nuevas pantallas o funciones (como historial de recetas o cuentas de usuario).  
+**RecipeMind** is a mobile app built with **React Native (Expo)** that generates recipes based on the ingredients you already have at home.  
+It’s designed to help you cook easily and make the most of what’s in your kitchen.
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+## 🚀 Features
+
+- 🥕 **Ingredient-based search:** type what you have at home and get personalized recipe ideas.  
+- 💬 **Modern and clean interface:** smooth colors and a simple, user-focused design.  
+- 🤖 **AI integration ready:** built to connect with language models such as **Hugging Face**, **OpenAI**, or **Ollama** to generate intelligent recipe suggestions.  
+- ⚡ **Modular architecture:** easily expandable with new screens or features in the future.
+
+---
+
+## 🛠️ Tech Stack
 
 - ⚛️ **React Native (Expo)**
 - 💬 **TypeScript / JavaScript**
-- 🧠 **APIs de IA:** Hugging Face / OpenAI (pendiente de implementación estable)
-- 🎨 **Expo LinearGradient** — para efectos visuales agradables.
-- 💾 **AsyncStorage** *(planeado)* — para guardar historial o favoritos.
-
----
-
-## 🧩 Estructura del proyecto
-
+- 🧠 **AI APIs:** Hugging Face / OpenAI *(integration in progress)*
+- 🎨 **Expo LinearGradient** — for soft gradient effects.
